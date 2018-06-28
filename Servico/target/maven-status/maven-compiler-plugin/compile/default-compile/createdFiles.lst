@@ -1,0 +1,9 @@
+br\com\servico\jasper\util\ExportadorFactory.class
+br\com\servico\jasper\util\TemplateJasperEnum.class
+br\com\servico\jasper\dto\ObjetoDTO.class
+br\com\servico\jasper\service\impl\GeraArquivoService.class
+br\com\servico\jasper\request\GeraJasperRequest.class
+br\com\servico\jasper\rest\GeraJasperRest.class
+br\com\servico\jasper\response\GeraJasperResponse.class
+br\com\servico\jasper\util\TipoExportacao.class
+br\com\servico\jasper\service\IGeraJasperService.class
