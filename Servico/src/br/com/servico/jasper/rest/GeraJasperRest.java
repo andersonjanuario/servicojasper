@@ -21,7 +21,7 @@ public class GeraJasperRest {
 	@GET
 	@Produces("application/json")
 	@Path("/impressao")
-	public String impressaoPACMensagemMandatoria() {
+	public String impressaoModeloRelatorio() {
 
 		final GeraJasperRequest geraArquivoRequest = new GeraJasperRequest();
 		geraArquivoRequest.getTemplateJasper().add(TemplateJasperEnum.TEMPLATE_RELATORIO_TESTE);
